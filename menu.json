@@ -11,7 +11,7 @@
       "obb_required": false,
       "status": "1",
       "show": "1", // Indicates whether to show this game
-      "name": "BGMI" // Game name
+      "name": "BattleGround Mobile India" // Game name
     },
     "com.tencent.ig": {
       "required_version": "3.7.0",
